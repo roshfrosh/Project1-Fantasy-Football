@@ -1,0 +1,45 @@
+Grouping,Activity,Points
+Passing,Passing Yards,0.04
+Passing,Passing Touchdowns,4
+Passing,Passing Interceptions,-2
+Passing,2pt Pass Conversions,2
+Rushing,Rush Yards,0.1
+Rushing,Rush Touchdowns,6
+Rushing,2pt Rush Conversions,2
+Receiving,Rec Yards,0.1
+Receiving,Rec Receptions,1
+Receiving,Rec Touchdowns,6
+Receiving,2pt Receiving Conversions,2
+Kicking,PAT,1
+Kicking,Field Goals Missed,-1
+Kicking,FG Made (0-39 yards),3
+Kicking,FG Made (40-49 yards),4
+Kicking,FG Made (50+ yards) ,5
+Misc,Lost Fumbles,-2
+Defense ,Kickoff Return TD,6
+Defense ,Punt return TD,6
+Defense ,Interception Return TD,6
+Defense ,Fumble Return TD,6
+Defense ,Blocked Punt Return TD,6
+Defense ,Blocked FG Return TD,6
+Defense ,2pt Return,2
+Defense ,Safety,2
+Defense ,Sack,1
+Defense ,"Blocked Punt, PAT, FG",2
+Defense ,Interception,2
+Defense ,Fumble Recovered,2
+Defense ,Safety,2
+Defense ,0 points allowed (PA0),5
+Defense ,1-6 points allowed (PA1),4
+Defense ,7-13 points allowed (PA7),3
+Defense ,14-17 points allowed (PA14),1
+Defense ,28-34 points allowed (PA28),-1
+Defense ,35-45 points allowed (PA35),-3
+Defense ,46+ points allowed (PA46),-5
+Defense ,100-199 total yards allowed (YA199),5
+Defense ,200-299 total yards allowed (YA299),3
+Defense ,350-399 total yards allowed (YA399),2
+Defense ,400-449 total yards allowed (YA449),-1
+Defense ,450-499 total yards allowed (YA499),-3
+Defense ,500-549 total yards allowed (YA549),-5
+Defense ,550+ total yards allowed (YA550),-6
